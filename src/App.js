@@ -1,8 +1,14 @@
+import Navbar from "./components/navbar/Navbar";
+import { Switch, Route } from "react-router-dom";
+
 function App() {
   return (
-    <div>
-      <h1>Yoooooooooo</h1>
-    </div>
+    <>
+      <Navbar />
+      <Switch>
+        <Route path="/" exact />
+      </Switch>
+    </>
   );
 }
 
