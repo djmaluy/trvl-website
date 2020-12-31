@@ -30,7 +30,7 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={football}
-              text="Experience of footbal on top of the mountains"
+              text="Experience of football on top of the mountains"
               label="Advanture"
               path="/services"
             />
