@@ -140,6 +140,7 @@
 
   .footer-link-wrapper {
     flex-direction: column;
+    /* width: 100%; */
   }
 
   .social-media-wrap {

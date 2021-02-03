@@ -1,15 +1,30 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+### Installation:
 
-### `yarn start`
+- **To clone the project**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+git clone git@github.com:djmaluy/trvl-website.git
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Go to the folder**
+
+```
+cd trvl-website
+```
+
+- **Execute command**
+
+```
+npm install
+```
+
+### Run the application:
+
+- **For quick application run use this command**
+
+```
+npm start
+```
